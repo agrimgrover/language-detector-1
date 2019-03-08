@@ -23,6 +23,7 @@ public class LangDetect {
 		System.out.println(lds.detect("Как вас зовут?"));
 		System.out.println(lds.detect("王明：这是什么？"));
 		System.out.println(lds.detect("Jeder hat das Recht auf Bildung. Die Bildung ist unentgeltlich, zum mindesten der Grundschulunterricht und die grundlegende Bildung. Der Grundschulunterricht ist obligatorisch. Fach- und Berufsschulunterricht müssen allgemein verfügbar gemacht werden, und der Hochschulunterricht muß allen gleichermaßen entsprechend ihren Fähigkeiten offenstehen."));
+		System.out.println(lds.detect(" будут проводится технические работы на локальной инфраструктуре. Инстансы auotest-hub, bep-perfomanse"));
 	}
 
 }
